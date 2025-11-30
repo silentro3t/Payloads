@@ -1,0 +1,2 @@
+<meta http-equiv="refresh" content="2; https://evil.com/" />
+<a href="https://malicious-site.com">Click me!</a>
